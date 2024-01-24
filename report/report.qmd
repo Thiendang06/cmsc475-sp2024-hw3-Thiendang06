@@ -1,0 +1,99 @@
+---
+title: Homework Assignment 2
+author: Drop your name here
+date: last-modified
+format:
+  html:
+    html-math-method: katex
+    smooth-scroll: true
+    embed-resources: true
+---
+
+(provide brief project description here.  If you were to share this HTML with someone else, what would you want them to read first?)
+
+* [LINK to GITHUB](https://github.com/cmsc-vcu/cmsc475-sp2024-hw2-template)
+* [LINK to FIGMA SHARE](https://www.figma.com/file/aSqekRNJn6DM1VMivvoibQ/Storyboard-Creator---Public-Demo-(Community)?type=design&node-id=111%3A2028&mode=design&t=PGNCnlkYRkizaQuu-1)
+
+(Be sure to freshen the links above with YOUR github and figma document shares!)
+
+(Delete the comments and notes I include within parenthesis.  Make the document your own!)
+
+(keep this file simple.  Create storyboard panels in Figma, save them to PNG into the assets folder and include them here.)
+
+[Here is a to the assignment instructions.](https://virginiacommonwealth.instructure.com/courses/93957/assignments/853465?module_item_id=3241439)
+
+# Storyboard mockups
+
+The assignment requires preparation of six panels.  The first and last panels are prescribed.  The themes for the middle four panels
+are your choice, selected from the list of 12 candidate themes.
+
+The first five panels are horizontal.  The last is vertical.
+
+## Board 1 - contact information
+
+![Horizontal example](assets/hw2-calling-card-1.png)
+
+What is dynamic on this panel? what is special about this panel? Why does the design mean?
+
+## Board 2 - Adventure
+
+My first theme is *adventure*.  Below is my storyboard.
+
+:::: {.columns}
+::: {.column width=65%}
+![](assets/hw2-adventure.png)
+:::
+::: {.column width=5%}
+&nbsp;
+:::
+::: {.column width=30%}
+![](assets/hw2-compass.png)
+:::
+::::
+
+I selected *adventure* because ...
+
+What is dynamic on this panel? what is special about this panel? Why does the design mean?
+
+## Board 3 - Passion
+
+This theme is *passion*.
+
+![Horizontal example](assets/hw2-calling-card-2.jpg)
+
+I selected *passion* because ...
+
+## Board 4 - Curiosity
+
+This theme is *curiosity*.
+
+```{=html}
+<center>
+<iframe src="https://editor.p5js.org/jleonard99/full/o2GbGov1J"
+width="520px"
+height="400px"
+data-external="1"
+></iframe>
+</center>
+```
+
+
+I selected *curiosity* because ...
+
+## Board 5 - Empowerment
+
+This theme is *empowerment*.
+
+![Horizontal example](assets/hw2-calling-card-2.jpg)
+
+I selected *empowerment* because ...
+
+## Board 6 - Closing panel
+
+The closing panel can more modern, in vertical format if you desire.  YES, if you choose, you can fit the last panel to your phone screen size.
+
+![Vertical example](assets/hw2-contact-card-1.png)
+
+# Reflection
+
+(How did the assignment go?  What would you do different?)
