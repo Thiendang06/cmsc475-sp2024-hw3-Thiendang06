@@ -18,7 +18,7 @@ This project involves creating a dynamic calling card and showcasing personal id
 
 ## Board 1 - Contact Information
 
-![Horizontal example](assets/hw2-calling-card1.png)
+![](assets/hw2-calling-card1.png)
 
 The panel above is a younger self of me who's ready to take on the world despite not knowing the type of obstacles that will be faced. This image can also be portray as the younger self of the reader thus allowing themselves to be within the story. In terms of motion/animation of this particular panel it would have the image presented first in a zoom out format then have the text description pop up next. 
 
@@ -27,7 +27,7 @@ The panel above is a younger self of me who's ready to take on the world despite
 My first theme is Passion. 
 
 
-![Horizontal example](assets/hw2-calling-card-2.png)
+![](assets/hw2-calling-card-2.png)
 
 I selected passion because as you progress older you develop a love for a certain thing which in turn turns into passion. That passion then fuels you to create a goal to achieve. For the motion/animation of this panel the 4 images in the corner would display first alongside the word passion. With each of the 4 corner images having arrows pointing towards passion. Then the second phase would be having arrows point out of passion and into two new images that would pop up in between the two corner images at the top and bottom. 
 
@@ -35,7 +35,7 @@ I selected passion because as you progress older you develop a love for a certai
 
 This theme is connection.
 
-![Horizontal example](assets/hw2-calling-card-3.png)
+![](assets/hw2-calling-card-3.png)
 
 Connection was selected because in order to achieve goals you need to develop connection with others. Connections can be derived into many things such as gaining opportunity that you couldn't before, obtaining mentorship, or surrounding yourself with like-minded individuals to help achieve your goals. The background color is in green to illustrate the method in how one becomes successful and how connection is in relation to success. For the motion having the word Connection pop up in the top left corner with each of the 3 images appearing one by one. With each appearance the arrows on the side grows longer. 
 
@@ -43,14 +43,14 @@ Connection was selected because in order to achieve goals you need to develop co
 
 This theme is resilience.
 
-![Horizontal example](assets/hw2-calling-card-4.png)
+![](assets/hw2-calling-card-4.png)
 
 
 Resilience is an essential characteristic to have in order to achieve one's goal. To continue pushing forward no matter the obstacles/challenges that a person could face is a necessity. The motion for this panel would be having the 3 arrows appear in a zoom like fashion quickly and having the boulder going up the hill alongside the individual. 
 
 ## Board 5 - Closing panel
 
-![Horizontal example](assets/hw2-calling-card-5.png)
+![](assets/hw2-calling-card-5.png)
 
 By having all three of those traits the individual can then achieve their version of success and/or achieving their goals. The background color symbolize a sense of peace and happiness as the individual has conquer the mountain. The motion for this panel would be to have the words all display at once and having the arrows pointed in one particular area. The arrows would appear one by one and then follow-up by the image. 
 
