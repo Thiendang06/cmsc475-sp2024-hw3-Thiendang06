@@ -1,18 +1,18 @@
 # CMSC 475 - Spring 2024 - Homework 2
 
-Homework 2 is about building a dynamic calling card.  You're provided with this scaffold repository. 
+Dynamic Calling Card Project - Homework 2
+Task List
 
-Clean up this README.md.  [Make it yours!](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
+1. Project Setup
+Create a dynamic calling card representing personal and professional identity using Figma for storyboarding and HTML for documentation.
 
-## Tasks
+2. Design and Development
+Design a Figma Storyboard: At least five panels, including dynamic elements, each sized at 500px by 380px.
+Develop an HTML Document: Convert QMD to HTML using Quarto, incorporating the storyboard and detailed explanations.
 
-1. See the tasks layed out in the [homework 2 description.](https://virginiacommonwealth.instructure.com/courses/93957/assignments/853465?module_item_id=3241439)
+3. Content Requirements
+First Panel: Resume-like information in an old-fashioned style.
+Middle Panels: At least three, each themed (e.g., Passion, Innovation).
+Last Panel: A summary or conclusion.
 
-2. Save the images and clean up the *report.qmd* file. Make it yours! (Points will be deducted if I find too much of my original text in the file!!!)
-
-3. Update the README.md.  [Make it yours!](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
-
-4. Commit your changes, push to github.
-
-5. Upload the html file to canvas. Upload the GITHUB repo to Gradescope.
-
+Preview can be done in VSCode. Make sure all the installation is downloaded and up-to-date in order to complete this action. (Quarto, VSCode). 
