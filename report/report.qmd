@@ -1,7 +1,7 @@
 ---
 title: Homework Assignment 2
-author: Drop your name here
-date: last-modified
+author: Thien Dang
+date: 1/24/2024
 format:
   html:
     html-math-method: katex
@@ -9,91 +9,51 @@ format:
     embed-resources: true
 ---
 
-(provide brief project description here.  If you were to share this HTML with someone else, what would you want them to read first?)
 
-* [LINK to GITHUB](https://github.com/cmsc-vcu/cmsc475-sp2024-hw2-template)
-* [LINK to FIGMA SHARE](https://www.figma.com/file/aSqekRNJn6DM1VMivvoibQ/Storyboard-Creator---Public-Demo-(Community)?type=design&node-id=111%3A2028&mode=design&t=PGNCnlkYRkizaQuu-1)
+This project involves creating a dynamic calling card and showcasing personal identity through a storyboard designed in Figma and a detailed HTML document. Focuses on developing storyboarding skills, applying design elements, and implementing these designs. The final deliverable includes a Figma storyboard of at least five panels with dynamic features such as variety of pictures to illustrate the concept of the chosen word and different shapes,arrows, and colors to convey a particular message.
 
-(Be sure to freshen the links above with YOUR github and figma document shares!)
-
-(Delete the comments and notes I include within parenthesis.  Make the document your own!)
-
-(keep this file simple.  Create storyboard panels in Figma, save them to PNG into the assets folder and include them here.)
-
-[Here is a to the assignment instructions.](https://virginiacommonwealth.instructure.com/courses/93957/assignments/853465?module_item_id=3241439)
-
-# Storyboard mockups
-
-The assignment requires preparation of six panels.  The first and last panels are prescribed.  The themes for the middle four panels
-are your choice, selected from the list of 12 candidate themes.
-
-The first five panels are horizontal.  The last is vertical.
-
-## Board 1 - contact information
-
-![Horizontal example](assets/hw2-calling-card-1.png)
-
-What is dynamic on this panel? what is special about this panel? Why does the design mean?
-
-## Board 2 - Adventure
-
-My first theme is *adventure*.  Below is my storyboard.
-
-:::: {.columns}
-::: {.column width=65%}
-![](assets/hw2-adventure.png)
-:::
-::: {.column width=5%}
-&nbsp;
-:::
-::: {.column width=30%}
-![](assets/hw2-compass.png)
-:::
-::::
-
-I selected *adventure* because ...
-
-What is dynamic on this panel? what is special about this panel? Why does the design mean?
-
-## Board 3 - Passion
-
-This theme is *passion*.
-
-![Horizontal example](assets/hw2-calling-card-2.jpg)
-
-I selected *passion* because ...
-
-## Board 4 - Curiosity
-
-This theme is *curiosity*.
-
-```{=html}
-<center>
-<iframe src="https://editor.p5js.org/jleonard99/full/o2GbGov1J"
-width="520px"
-height="400px"
-data-external="1"
-></iframe>
-</center>
-```
+* [LINK to GITHUB](https://github.com/cmsc-vcu/cmsc475-sp2024-hw2-Thiendang06)
+* [LINK to FIGMA SHARE](https://www.figma.com/file/K8zh68cQUtdEJpeZgdqxDc/Storyboard?type=design&node-id=0%3A1&mode=design&t=tli2GZBfuCynIMi4-1)
 
 
-I selected *curiosity* because ...
+## Board 1 - Contact Information
 
-## Board 5 - Empowerment
+![Horizontal example](assets/hw2-calling-card1.png)
 
-This theme is *empowerment*.
+The panel above is a younger self of me who's ready to take on the world despite not knowing the type of obstacles that will be faced. This image can also be portray as the younger self of the reader thus allowing themselves to be within the story. In terms of motion/animation of this particular panel it would have the image presented first in a zoom out format then have the text description pop up next. 
 
-![Horizontal example](assets/hw2-calling-card-2.jpg)
+## Board 2 - Passion
 
-I selected *empowerment* because ...
+My first theme is Passion. 
 
-## Board 6 - Closing panel
 
-The closing panel can more modern, in vertical format if you desire.  YES, if you choose, you can fit the last panel to your phone screen size.
+![Horizontal example](assets/hw2-calling-card-2.png)
 
-![Vertical example](assets/hw2-contact-card-1.png)
+I selected passion because as you progress older you develop a love for a certain thing which in turn turns into passion. That passion then fuels you to create a goal to achieve. For the motion/animation of this panel the 4 images in the corner would display first alongside the word passion. With each of the 4 corner images having arrows pointing towards passion. Then the second phase would be having arrows point out of passion and into two new images that would pop up in between the two corner images at the top and bottom. 
+
+## Board 3 - Connection
+
+This theme is connection.
+
+![Horizontal example](assets/hw2-calling-card-3.png)
+
+Connection was selected because in order to achieve goals you need to develop connection with others. Connections can be derived into many things such as gaining opportunity that you couldn't before, obtaining mentorship, or surrounding yourself with like-minded individuals to help achieve your goals. The background color is in green to illustrate the method in how one becomes successful and how connection is in relation to success. For the motion having the word Connection pop up in the top left corner with each of the 3 images appearing one by one. With each appearance the arrows on the side grows longer. 
+
+## Board 4 - Resilience
+
+This theme is resilience.
+
+![Horizontal example](assets/hw2-calling-card-4.png)
+
+
+Resilience is an essential characteristic to have in order to achieve one's goal. To continue pushing forward no matter the obstacles/challenges that a person could face is a necessity. The motion for this panel would be having the 3 arrows appear in a zoom like fashion quickly and having the boulder going up the hill alongside the individual. 
+
+## Board 5 - Closing panel
+
+![Horizontal example](assets/hw2-calling-card-5.png)
+
+By having all three of those traits the individual can then achieve their version of success and/or achieving their goals. The background color symbolize a sense of peace and happiness as the individual has conquer the mountain. The motion for this panel would be to have the words all display at once and having the arrows pointed in one particular area. The arrows would appear one by one and then follow-up by the image. 
 
 # Reflection
 
-(How did the assignment go?  What would you do different?)
+This particular assignment developed my creative thinking side as the main goal of the storyboard is to illustrate a story or a message to the reader. One thing I would change is to look at more examples of storyboard to incorporate more ideas and have a stronger foundation for the assignment. 
